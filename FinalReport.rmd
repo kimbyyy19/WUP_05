@@ -73,9 +73,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
-
-
-
+Based on the table a little over 58% of females that took the Aids drug still contracted AIDS, and 41% of the males took the placebo. Based on the results the females that had taken the preventative drug still interacted with the virus, leading to believe the drug did not work.
 
 
 
