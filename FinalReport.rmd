@@ -101,6 +101,5 @@ This test shows that 210 people who took the drug contracted aids while there we
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-Based on the table a little over 58% of females that took the Aids drug still contracted AIDS, and 41% of the males took the placebo. Based on the results the females that had taken the preventative drug still interacted with the virus, leading to believe the drug did not work.Which we can see the the p-value .0001 
-0.000056 of the p-value.
+The bar chart shows that more females that took the drug contracted aids than the placebo with nearly 60% who got aids from taking the drug and about 40% taking the placebo. The numerical graph shows that out of 100 people who contracted aids 59 took the drug and 41 took the placebo. The fisher test told us that 210 people that took the drug got aids and 147 people that took the placebo got aids. The p test shows that there is a 7 out of 10,000 chance of getting these results if there was no difference. With all this data we can conclude that the drug does not prevent aids, in fact, it makes people more likely to contract aids.
 
